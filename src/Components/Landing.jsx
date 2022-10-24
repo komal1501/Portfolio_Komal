@@ -4,7 +4,7 @@ import {motion} from "framer-motion";
 
 const Landing=()=>{
     return(
-    <div className="bg-[#6f3257] h-screen ">
+    <div className="bg-[#6f3257] h-screen w-screen mb-8 ">
       <motion.div initial={{
             opacity:0,
             x:-100
