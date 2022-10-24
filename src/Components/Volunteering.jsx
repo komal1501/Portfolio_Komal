@@ -31,7 +31,7 @@ const Volunteering=()=>{
   <h1 className="text-2xl font-bold mb-2">University Computer Center and Digital Affairs cell</h1>
   <a href="https://www.instagram.com/ucc_digitalaffairscell/" className="text-[#6f3257]">Instagram Link</a>
   <ul className="list-disc p-5">
-    <li>Helped in organising university's biggest event- Digi Fiesta</li>
+    {/*<li>Helped in organising university's big event- Digi Fiesta</li>*/}
     <li>Contributed in development of University's website(FrontEnd)</li>
   </ul>
 
